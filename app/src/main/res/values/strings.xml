@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CivicFix</string>
+    <string name="channel_name">Issue Updates</string>
+    <string name="channel_desc">Notifications for your reported issues</string>
+</resources>
